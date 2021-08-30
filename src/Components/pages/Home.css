@@ -1,0 +1,12 @@
+.home{
+    flex: 4;
+}
+.card{
+    display:flex;
+    font-display:inherit;
+
+}
+.home_card{
+    display: flex;
+    flex-direction: row;
+}

@@ -1,0 +1,17 @@
+.chart{
+    width: 95%;
+    margin: 10px;
+    padding: 10px;
+    padding-bottom: 10px;
+    -webkit-box-shadow: 0px 10px 13px -7px #000000, 15px 10px 41px 4px rgba(0,0,0,0.14); 
+    box-shadow: 0px 10px 13px -7px #000000, 15px 10px 41px 4px rgba(0,0,0,0.14);
+    margin-left: 23px;
+    margin-top: 20px;
+}
+.chartTitle{
+    color: #7d7d7d;
+}
+
+.cardsMoney{
+    color:#03a5d7;
+}

@@ -1,0 +1,54 @@
+.addCoinWrapper{
+    margin-top: 60px;
+    min-height: 80vh;
+}
+
+.btnGooglee {
+    margin-top: 20px;
+    background-color: #fff;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 20%;
+    cursor: pointer;
+    box-shadow: 2px 3px 4px #888888;
+}
+
+.btnRegister:hover{
+    background-color: #0dc5aa;
+}
+
+.btnGooglee:hover{
+background-color: rgb(238, 238, 238);
+}
+
+.btntwiter:hover{
+    background-color: rgb(238, 238, 238);
+    }
+
+.btntwiter {
+    margin-top: 20px;
+    background-color: #2ba6df;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 20%;
+    cursor: pointer;
+    box-shadow: 2px 3px 4px #888888;
+}
+
+
+.gIcon{
+    width: 20px;
+    height: 20px;
+    margin-bottom:3px;
+}
+
+.eIcon{
+width: 20px;
+height: 15px;
+margin-bottom: 3px;
+}
+
+.tIcon{
+    width: 20px;
+    margin-bottom: 3px;
+}
