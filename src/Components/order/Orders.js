@@ -61,7 +61,7 @@ const OrderForm = ({ visible, onCreate, onCancel }) => {
       .catch((error) => {
         console.log(error)
       })
-    Axios.get('http://localhost:3000/status_order')
+    Axios.get('https://londry-backend.herokuapp.com/status_order')
       .then(response => {
         if (response) {
           setstat(response.data)
