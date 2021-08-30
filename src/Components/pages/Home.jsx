@@ -32,7 +32,7 @@ function Home() {
             <div style={{display: "flex", flexDirection: "row"}}>
             <Featuredinfo
              id= "1"
-             title="Revanue"
+             title=" Average Order Frequency"
              value="10000"
              rate="-11.4"
              areaname= "Shahfaisal"
@@ -40,7 +40,7 @@ function Home() {
             />
              <Featuredinfo
              id= "2"
-             title="Active Cosutmers"
+             title="Increasing Order Value"
              value="50"
              rate="-11.4"
              areaname= "Shahfaisal"
@@ -48,7 +48,7 @@ function Home() {
             />
              <Featuredinfo
              id= "3"
-             title="Active Riders"
+             title="Average Order Value "
              value="20"
              rate="-11.4"
              areaname= "Shahfaisal"
@@ -56,7 +56,7 @@ function Home() {
             />
              <Featuredinfo
              id= "1"
-             title="Active Orders"
+             title="Number of Orders"
              value="12"
              rate="-11.4"
              areaname= "Shahfaisal"
@@ -67,7 +67,7 @@ function Home() {
            
              <Featuredinfo
              id= "2"
-             title="Completed Orders"
+             title="Customers Registered"
              value="10"
              rate="-11.4"
              areaname= "Shahfaisal"
@@ -75,7 +75,7 @@ function Home() {
             />
              <Featuredinfo
              id= "3"
-             title="Sales"
+             title="Number of Orders Filled"
              value="24250"
              rate="-11.4"
              areaname= "Shahfaisal"
@@ -83,7 +83,7 @@ function Home() {
             />
             <Featuredinfo
              id= "1"
-             title="Orders Cancelled"
+             title="Complains Monthly"
              value="5"
              rate="-11.4"
              areaname= "Shahfaisal"
@@ -91,17 +91,14 @@ function Home() {
             />
              <Featuredinfo
              id= "2"
-             title="Revanue"
+             title="Complains per Vendor"
              value="2425"
              rate="-11.4"
              areaname= "Shahfaisal"
              comparedtolastmonth= "less 1000"
             />
              </div>
-             <div style={{display: "flex", flexDirection: "row"}}>
             
-          
-             </div>
             <Chart />
             <Chart1 />
             <Chart2 />

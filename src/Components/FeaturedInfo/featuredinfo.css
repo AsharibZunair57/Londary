@@ -17,7 +17,7 @@
     box-shadow: 0px 5px 10px -7px #000000, 10px 5px 30px 4px rgba(0,0,0,0.14);
 }
 .featuredTitle{
-    font-size: 20px;
+    font-size: 15px;
     font-weight: bold;
     color: #041738;
 
@@ -63,7 +63,7 @@
     cursor:pointer;
     color: #041738;
     font-weight: bold;
-    font-size: 16px;
+    font-size: 15px;
   
 }
 .anc:hover{
