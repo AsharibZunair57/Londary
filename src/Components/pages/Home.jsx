@@ -33,31 +33,31 @@ function Home() {
             <Featuredinfo
              id= "1"
              title="Revanue"
-             value="2425"
+             value="10000"
              rate="-11.4"
              areaname= "Shahfaisal"
              comparedtolastmonth= "less 1000"
             />
              <Featuredinfo
              id= "2"
-             title="Revanue"
-             value="2425"
+             title="Active Cosutmers"
+             value="50"
              rate="-11.4"
              areaname= "Shahfaisal"
              comparedtolastmonth= "less 1000"
             />
              <Featuredinfo
              id= "3"
-             title="Revanue"
-             value="2425"
+             title="Active Riders"
+             value="20"
              rate="-11.4"
              areaname= "Shahfaisal"
              comparedtolastmonth= "less 1000"
             />
              <Featuredinfo
              id= "1"
-             title="Revanue"
-             value="2425"
+             title="Active Orders"
+             value="12"
              rate="-11.4"
              areaname= "Shahfaisal"
              comparedtolastmonth= "less 1000"
@@ -67,24 +67,24 @@ function Home() {
            
              <Featuredinfo
              id= "2"
-             title="Revanue"
-             value="2425"
+             title="Completed Orders"
+             value="10"
              rate="-11.4"
              areaname= "Shahfaisal"
              comparedtolastmonth= "less 1000"
             />
              <Featuredinfo
              id= "3"
-             title="Revanue"
-             value="2425"
+             title="Sales"
+             value="24250"
              rate="-11.4"
              areaname= "Shahfaisal"
              comparedtolastmonth= "less 1000"
             />
             <Featuredinfo
              id= "1"
-             title="Revanue"
-             value="2425"
+             title="Orders Cancelled"
+             value="5"
              rate="-11.4"
              areaname= "Shahfaisal"
              comparedtolastmonth= "less 1000"
